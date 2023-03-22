@@ -1,0 +1,29 @@
+.more1 {
+  background: #f4d03f; 
+  background: linear-gradient(to right, #f4d03f, transparent); 
+
+  }
+
+  .div2{
+    width: 20% ;
+    margin:auto;
+  }
+
+  .div3{
+    width: 30% ;
+    margin:auto;
+    
+  }
+
+
+  .linea{
+    border-left: 1px solid #000000; 
+    height: 100%;
+    float: left;
+    margin-right: 10px; 
+     }
+
+  h2{
+    color: #000000; 
+    text-shadow: 1px 1px 1px rgba(192, 192, 192, 0.5); 
+  }

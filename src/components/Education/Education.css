@@ -1,0 +1,23 @@
+.div5{
+    background-color: #fff;
+    color: #333;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    transform: rotate(-5deg);
+    
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: #ffffff;
+    font-weight: bold; 
+    border: 5px solid #ff00ff; 
+    padding: 20px; 
+}
+
+.letra{
+    color: #000000; /* color negro brillante */
+    text-shadow: 1px 1px #FFFFFF; /* sombra blanca de 1px de distancia */
+}
